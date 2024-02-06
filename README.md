@@ -1,2 +1,2 @@
 # Calculator
-created a calculater using Html, Css, and JavaScript
+Created a Calculater using Html, Css, and JavaScript
